@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               <Brain className="h-8 w-8" />
-              <h3 className="text-xl font-bold">VeggieTrade Expert</h3>
+              <h3 className="text-xl font-bold">PasarTrade Expert</h3>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
               Sistem pakar yang membantu pedagang sayuran membuat keputusan bisnis yang lebih cerdas 
@@ -40,12 +40,12 @@ const Footer = () => {
         
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-primary-foreground/60">
-            © 2024 VeggieTrade Expert. Menggunakan algoritma Naive Bayes untuk prediksi perdagangan sayuran.
+            © 2024 PasarTrade Expert. Menggunakan algoritma Naive Bayes untuk prediksi perdagangan sayuran.
           </p>
           <div className="flex items-center space-x-4 mt-4 md:mt-0">
             <div className="flex items-center space-x-2 text-sm text-primary-foreground/80">
-              <span>Powered by</span>
-              <span className="font-semibold">Machine Learning</span>
+              <span>Created by</span>
+              <span className="font-semibold">Demas W</span>
             </div>
           </div>
         </div>
